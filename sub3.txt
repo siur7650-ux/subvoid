@@ -5,3 +5,4 @@ vless://7d5e3346-039d-1d94-9582-521f0472e38e@server9.nekagsm.com:443?path=%2F&se
 vless://7d5e3346-039d-1d94-9582-521f0472e38e@server4.nekagsm.com:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=usmrz1.nekagsm.com#%40filembad
 vless://7d5e3346-039d-1d94-9582-521f0472e38e@server8.nekagsm.com:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=flmrz1.nekagsm.com#%40filembad
 vless://7d5e3346-039d-1d94-9582-521f0472e38e@server10.nekagsm.com:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=swmrz1.nekagsm.com#%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bFRtbjVxcmlUdEJ0RHZj@20.164.211.148:443#%D8%A7%D9%84%D9%88%D9%88%D9%88%20%DB%B2
