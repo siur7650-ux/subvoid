@@ -1,1 +1,1 @@
-vless://b9dccdab-0f77-4fb7-8949-4d378e92df5c@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#%F0%9F%87%A9%F0%9F%87%AA
+vless://e3000e19-78b5-4943-832b-d1e4bdb4e457@89.44.113.37:7080?security=reality&encryption=none&pbk=Sg4onLyYlTftShqKh320LJzdfy249cuxLZP2Dra3EBI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=4b64acc76b#%D8%A7%D9%86%D8%B4%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D9%87%20%D8%AE%DB%8C%D8%B1%D9%87
