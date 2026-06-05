@@ -1,3 +1,4 @@
+vless://7df2f824-83ba-4ee4-9413-d97e19bfed59@tala.shompolexy.shop:80?path=%2FShomp&security=none&encryption=none&host=play.google.com&type=ws#%DB%B1
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?path=%2FTELEGRAM_NUFiLTER&security=tls&insecure=0&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%287-1%29
 vless://c838bbcc-db6b-4663-bc22-18db4dc62847@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=Fijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%287-4%29
 vless://3f88bde3-effd-4a49-bfa2-19fa4d0e1cc5@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%287-3%29
