@@ -1,3 +1,5 @@
+vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:35565?security=reality&encryption=none&pbk=u1jJ6x_wMSPAWxBXjPgeu2oFalXKz0acV0-uXTRpsjI&headerType=none&fp=chrome&spx=%2FmeNj39REQUsWm4c&type=tcp&sni=aws.amazon.com&sid=b4#%D8%A8%D8%A7
+vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#%E2%98%B9
 vless://7df2f824-83ba-4ee4-9413-d97e19bfed59@tala.shompolexy.shop:80?path=%2FShomp&security=none&encryption=none&host=play.google.com&type=ws#%DB%B1
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?path=%2FTELEGRAM_NUFiLTER&security=tls&insecure=0&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%287-1%29
 vless://c838bbcc-db6b-4663-bc22-18db4dc62847@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=Fijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%287-4%29
