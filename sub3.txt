@@ -1,3 +1,5 @@
+vless://fa53d9c2-eb4b-405e-9681-d73f63ede8d0@bmi.ir:80?path=%2Fws&security=none&encryption=mlkem768x25519plus.random.0rtt.Pbq_ppp5sZDBncfRD3r81MWVXy8W5F5_Uv_js_abZ0o&host=wsb.kalak.ca&type=ws#%40V2_Open
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#%40V2_Open
 vless://ICVPNN@ntlfy.letknow.shop:1234?security=reality&encryption=none&pbk=rXM0pq03dWs3ex5zZ7oyFrpNxoUr5Ms7h4p4FyLRZUQ&headerType=none&fp=random&spx=%2FJx5txEAezCw23mD&type=tcp&sni=www.nvidia.com&sid=b4ad484b21da874f#80
 vless://ICVPNN@ntlfy.letknow.shop:1234?security=reality&encryption=none&pbk=rXM0pq03dWs3ex5zZ7oyFrpNxoUr5Ms7h4p4FyLRZUQ&headerType=none&fp=random&spx=%2FJx5txEAezCw23mD&type=tcp&sni=www.nvidia.com&sid=b4ad484b21da874f#1
 vless://cf7ca3ef-2348-437f-9dbc-9a6f8e464a47@45.144.53.53:8443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&fp=firefox&type=xhttp&sni=www.tradingview.com&sid=e8524fa7d0b1c936#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-
