@@ -1,3 +1,13 @@
+trojan://qFgh3C8Ei8@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=dh.aananas.ir.&fp=firefox&type=ws&allowInsecure=0&sni=dh.aananas.ir.#%40ipV2Ray%20-%20NetMeli%20%F0%9F%8D%8B%205
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@de22.nomac.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%202
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@fr2.nomac.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%202
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@se22.nomac.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%202
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@de1.nomac.ir:8443?security=reality&encryption=none&pbk=K5-jL-m537jMtxDUTfl1FW9EnWdHjJOBECdxbOGAcQI&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%201
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@se1.nomac.ir:8443?security=reality&encryption=none&pbk=K5-jL-m537jMtxDUTfl1FW9EnWdHjJOBECdxbOGAcQI&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%201
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@cdn8.nomac.ir:2082?path=%2F&security=&encryption=none&host=fr2.nomac.ir&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%28CDN%29
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@cdn8.nomac.ir:2082?path=%2F&security=&encryption=none&host=de1.nomac.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%20%28CDN%29
+vless://5de0b79b-5a73-41ff-af47-7ebad09500b7@cdn8.nomac.ir:2082?path=%2F&security=&encryption=none&host=se1.nomac.ir&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20%28CDN%29
+
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20NL
 vless://a114c37e-515c-4d30-b910-c7f019146cc0@89.124.78.248:1310?path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&security=&encryption=none&host=play.google.com&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%AB%F0%9F%87%AE%20FI
